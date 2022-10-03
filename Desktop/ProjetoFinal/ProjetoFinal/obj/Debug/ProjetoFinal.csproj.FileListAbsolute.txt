@@ -1,0 +1,11 @@
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Form1.resources
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\ProjetoFinal\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
