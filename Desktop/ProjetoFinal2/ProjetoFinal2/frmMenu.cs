@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace ProjetoFinal2
 {
-    public partial class Login : Form
+    public partial class frmMenu : Form
     {
-        public Login()
+        public frmMenu()
         {
             InitializeComponent();
+        }
+
+        private void btnCadastro_Click(object sender, EventArgs e)
+        {
+            frmCadastroUsuarios cadastro = new frmCadastroUsuarios();
+            cadastro.ShowDialog();
+
         }
     }
 }

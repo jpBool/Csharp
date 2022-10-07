@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace ProjetoFinal2
 {
@@ -16,7 +17,16 @@ namespace ProjetoFinal2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Menu());
+
+            frmSplashScreen frmSplash = new frmSplashScreen();
+            frmSplash.Show();
+            Application.DoEvents();
+            Thread.Sleep(1000);
+            Thread.Sleep(1000);
+            Thread.Sleep(1000);
+            frmSplash.Dispose();
+
+            Application.Run(new frmMenu());
         }
     }
 }

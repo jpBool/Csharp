@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProjetoFinal2
 {
-    public partial class Menu : Form
+    public partial class frmLogin : Form
     {
-        public Menu()
+        public frmLogin()
         {
             InitializeComponent();
         }

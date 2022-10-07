@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProjetoFinal2
 {
-    public partial class CadastroUsuarios : Form
+    public partial class frmSplashScreen : Form
     {
-        public CadastroUsuarios()
+        public frmSplashScreen()
         {
             InitializeComponent();
         }
