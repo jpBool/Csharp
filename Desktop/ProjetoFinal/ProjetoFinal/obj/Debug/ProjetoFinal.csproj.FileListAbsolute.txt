@@ -1,0 +1,12 @@
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe.config
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.exe
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\bin\Debug\ProjetoFinal.pdb
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.CadastroUsuarios.resources
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.Properties.Resources.resources
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.FormSplashScreen.resources
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.GenerateResource.cache
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.exe
+C:\Users\ra2157042\Documents\GitHub\Csharp\Desktop\ProjetoFinal\ProjetoFinal\obj\Debug\ProjetoFinal.pdb
