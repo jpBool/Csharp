@@ -28,8 +28,7 @@ namespace ProjetoFinal2
             
 
             frmLogin frmLogin = new frmLogin();
-            frmCadastroUsuarios frmCadastro = new frmCadastroUsuarios();
-            frmCadastro.Show();
+          
 
             /*frmLogin frmLogin = new frmLogin();
             frmLogin.Show();*/

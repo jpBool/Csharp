@@ -110,5 +110,8 @@
   <ItemGroup>
     <None Include="Resources\SADASDA-removebg.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Imagem\IconeCadastroUsuario.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

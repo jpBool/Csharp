@@ -196,6 +196,7 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::ProjetoFinal2.Properties.Resources.IconeCadastroUsuario;
             this.pictureBox1.Location = new System.Drawing.Point(334, 104);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(99, 95);
