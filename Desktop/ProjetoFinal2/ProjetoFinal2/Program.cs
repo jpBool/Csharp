@@ -25,6 +25,9 @@ namespace ProjetoFinal2
             Thread.Sleep(1000);
             Thread.Sleep(1000);
             frmSplash.Dispose();
+            
+            /*frmLogin frmLogin = new frmLogin();
+            frmLogin.Show();*/
 
             Application.Run(new frmMenu());
         }
