@@ -18,20 +18,25 @@ namespace ProjetoFinal2
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            /*frmSplashScreen frmSplash = new frmSplashScreen();
+            frmSplashScreen frmSplash = new frmSplashScreen();
             frmSplash.Show();
             Application.DoEvents();
             Thread.Sleep(1000);
             Thread.Sleep(1000);
             Thread.Sleep(1000);
-            frmSplash.Dispose();*/
+            frmSplash.Dispose();
             
+
             frmLogin frmLogin = new frmLogin();
             frmCadastroUsuarios frmCadastro = new frmCadastroUsuarios();
             frmCadastro.Show();
 
-            Application.Run(frmLogin);
-            /*Application.Run(new frmMenu());*/
+            /*frmLogin frmLogin = new frmLogin();
+            frmLogin.Show();*/
+
+
+            /*Application.Run(frmLogin);*/
+            Application.Run(new frmMenu());
         }
     }
 }
