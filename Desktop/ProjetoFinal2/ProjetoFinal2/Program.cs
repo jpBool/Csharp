@@ -27,7 +27,8 @@ namespace ProjetoFinal2
             frmSplash.Dispose();*/
             
             frmLogin frmLogin = new frmLogin();
-            frmLogin.Show();
+            frmCadastroUsuarios frmCadastro = new frmCadastroUsuarios();
+            frmCadastro.Show();
 
             Application.Run(frmLogin);
             /*Application.Run(new frmMenu());*/

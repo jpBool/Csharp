@@ -24,3 +24,16 @@ C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\Csharp\Desktop\ProjetoFinal2\Pr
 C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.CoreCompileInputs.cache
 C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.exe
 C:\Users\deoli\OneDrive\Documentos\GitHub\Csharp\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.pdb
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.AssemblyReference.cache
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmCadastroUsuarios.resources
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmLogin.resources
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmMenu.resources
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmSplashScreen.resources
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.Properties.Resources.resources
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.GenerateResource.cache
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.exe
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.pdb
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.exe.config
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.exe
+C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.pdb
