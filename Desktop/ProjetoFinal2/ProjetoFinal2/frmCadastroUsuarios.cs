@@ -49,7 +49,7 @@ namespace ProjetoFinal2
 
             try
             {
-                string sql = "INSERT INTO usuario (nome, cpf, telefone, idade, senha) VALUES (@1, @2, @3, @4)";
+                string sql = "INSERT INTO usuario (nome, cpf, telefone, idade, senha) VALUES (@1, @2, @3, @4, @5)";
                 ConexaoBanco.executar(sql, new List<object> { txtBoxNome.Text, txtBoxCPF, txtBoxTelefone.Text, txtBoxIdade, txtBoxSenha.Text });
             }
             catch (NpgsqlException ex)

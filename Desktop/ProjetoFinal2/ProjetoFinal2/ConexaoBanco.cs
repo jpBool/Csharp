@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Npgsql;
 using System.Data;
-using System.Buffers;
+using System.Data.SqlClient;
 
 namespace ProjetoFinal2
 {
@@ -17,6 +17,7 @@ namespace ProjetoFinal2
         /*static string stringConexao = "Server = 200.145.153.175; " +
                                         "Database = a08gatosant; Port=5432;" +
                                         "User ID = a08gatosant; password = cti;";*/
+
 
         static NpgsqlConnection cn;
         public static void Conectar()
