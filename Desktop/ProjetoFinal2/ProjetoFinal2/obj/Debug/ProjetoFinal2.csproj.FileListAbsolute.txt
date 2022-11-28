@@ -37,3 +37,17 @@ C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\
 C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.exe.config
 C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.exe
 C:\Users\joao pedro\Documents\GitHub\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.pdb
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.exe.config
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.exe
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\bin\Debug\ProjetoFinal2.pdb
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.AssemblyReference.cache
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmCadastroUsuarios.resources
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmLogin.resources
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmMenu.resources
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.frmSplashScreen.resources
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.Properties.Resources.resources
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.GenerateResource.cache
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.exe
+C:\Users\alexa\Source\Repos\Csharp\Desktop\ProjetoFinal2\ProjetoFinal2\obj\Debug\ProjetoFinal2.pdb
