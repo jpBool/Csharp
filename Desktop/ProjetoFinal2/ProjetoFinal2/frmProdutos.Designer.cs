@@ -44,19 +44,19 @@ namespace ProjetoFinal2
             this.dgvProdutos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvProdutos.Location = new System.Drawing.Point(61, 21);
             this.dgvProdutos.Name = "dgvProdutos";
-            this.dgvProdutos.Size = new System.Drawing.Size(336, 150);
+            this.dgvProdutos.Size = new System.Drawing.Size(827, 269);
             this.dgvProdutos.TabIndex = 0;
             // 
             // txtBoxPesquisa
             // 
-            this.txtBoxPesquisa.Location = new System.Drawing.Point(61, 205);
+            this.txtBoxPesquisa.Location = new System.Drawing.Point(61, 333);
             this.txtBoxPesquisa.Name = "txtBoxPesquisa";
-            this.txtBoxPesquisa.Size = new System.Drawing.Size(100, 20);
+            this.txtBoxPesquisa.Size = new System.Drawing.Size(156, 20);
             this.txtBoxPesquisa.TabIndex = 1;
             // 
             // btnPesquisar
             // 
-            this.btnPesquisar.Location = new System.Drawing.Point(180, 205);
+            this.btnPesquisar.Location = new System.Drawing.Point(271, 331);
             this.btnPesquisar.Name = "btnPesquisar";
             this.btnPesquisar.Size = new System.Drawing.Size(75, 23);
             this.btnPesquisar.TabIndex = 2;
@@ -66,7 +66,7 @@ namespace ProjetoFinal2
             // 
             // btnVoltar
             // 
-            this.btnVoltar.Location = new System.Drawing.Point(322, 253);
+            this.btnVoltar.Location = new System.Drawing.Point(813, 381);
             this.btnVoltar.Name = "btnVoltar";
             this.btnVoltar.Size = new System.Drawing.Size(75, 23);
             this.btnVoltar.TabIndex = 3;
@@ -75,16 +75,17 @@ namespace ProjetoFinal2
             // 
             // btnExcluir
             // 
-            this.btnExcluir.Location = new System.Drawing.Point(233, 253);
+            this.btnExcluir.Location = new System.Drawing.Point(152, 362);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.Size = new System.Drawing.Size(75, 23);
             this.btnExcluir.TabIndex = 4;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // btnAlterar
             // 
-            this.btnAlterar.Location = new System.Drawing.Point(61, 253);
+            this.btnAlterar.Location = new System.Drawing.Point(61, 362);
             this.btnAlterar.Name = "btnAlterar";
             this.btnAlterar.Size = new System.Drawing.Size(75, 23);
             this.btnAlterar.TabIndex = 5;
@@ -93,7 +94,7 @@ namespace ProjetoFinal2
             // 
             // btnInserir
             // 
-            this.btnInserir.Location = new System.Drawing.Point(146, 253);
+            this.btnInserir.Location = new System.Drawing.Point(813, 296);
             this.btnInserir.Name = "btnInserir";
             this.btnInserir.Size = new System.Drawing.Size(75, 23);
             this.btnInserir.TabIndex = 6;
@@ -104,7 +105,7 @@ namespace ProjetoFinal2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(447, 317);
+            this.ClientSize = new System.Drawing.Size(927, 445);
             this.Controls.Add(this.btnInserir);
             this.Controls.Add(this.btnAlterar);
             this.Controls.Add(this.btnExcluir);
@@ -114,7 +115,7 @@ namespace ProjetoFinal2
             this.Controls.Add(this.dgvProdutos);
             this.Name = "frmProdutos";
             this.Text = "frmProdutos";
-            
+            this.Load += new System.EventHandler(this.frmProdutos_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvProdutos)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
